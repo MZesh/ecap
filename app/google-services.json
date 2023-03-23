@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077868739873",
+    "firebase_url": "https://ecap-a4623-default-rtdb.firebaseio.com",
+    "project_id": "ecap-a4623",
+    "storage_bucket": "ecap-a4623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077868739873:android:25ffed43d8de4ccdecd260",
+        "android_client_info": {
+          "package_name": "com.example.ecap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077868739873-5piao9j1kpa3q1ep63u0tbs3ndm0eksf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj50iZnZzKLHsH20wjCUNgQYDBa2r393M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077868739873-5piao9j1kpa3q1ep63u0tbs3ndm0eksf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
